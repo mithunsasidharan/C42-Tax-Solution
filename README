@@ -1,3 +1,5 @@
+A simple ruby application to calculate taxes from the given input invoice.
+
 Ruby Version of the application is 1.9.3
 
 Version Control System used is GIT
